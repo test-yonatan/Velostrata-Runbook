@@ -17,4 +17,5 @@ The Velostrata Runbook Automation Tool is built as a PowerShell script and can b
 
 The automation actions run in a sequence as defined, and are all re-entrant, that is, if there is any failure in the process, you can fix the problem and restart the script again.
 
+Full documentation is available here: http://docs.velostrata.com/m/60079
 
